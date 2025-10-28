@@ -21,7 +21,8 @@
 title: NeSy 2025 Conference
 email: organisers@nesyconf.org
 description: >- # this means to ignore newlines until "baseurl:"
-  19th International Conference on Neurosymbolic Learning and Reasoning (NeSy 2025, 8-10 September 2025, Santa Cruz, CA, USA)
+  NeSy AI is the association for neurosymbolic Artificial Intelligence. It runs NeSy, the premier international conference on neural-symbolic learning and reasoning, yearly since 2005, with a focus on neuro-symbolic systems, machine learning and reasoning in deep learning, knowledge graphs and generative AI, hybrid systems and applications of AI including in healthcare, finance, business, mathematics, manufacturing, retail, logistics, science and engineering. NeSy special areas of interest include network verification and safety, AI accountability and risks, explainable AI, knowledge extraction, ontology learning, multimodal learning, reasoning in large language models, computer vision and applications in computer science, including databases, human-machine interaction, natural language processing, software engineering and formal methods, robotics and control systems. This site hosts the NeSy 2025 conference, which is the 19th edition of the international conference on neurosymbolic learning and reasoning.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://2025.nesyconf.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nesyconf
