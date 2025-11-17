@@ -4,6 +4,9 @@ title: Call for Papers
 permalink: /call-for-papers/
 ---
 
+<!-- TODO: Add call for papers for NeSy 2026 
+Please note: To enable this page, uncomment the line in _config.yml that says "callforpapers.md". -->
+
 We invite you to submit papers to the 19th International Conference on Neurosymbolic Learning and Reasoning (NeSy 2025), held in Santa Cruz (CA, USA) from September 8-10, 2025.
 
 NeSy is the premier annual conference of the research community working on neurosymbolic AI, integrating symbolic and neural approaches to learning, reasoning, and problem-solving in AI. Accepted papers of NeSy 2025 will be published in a volume of [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press/).

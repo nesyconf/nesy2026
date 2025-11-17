@@ -4,6 +4,9 @@ title: Schedule
 permalink: /schedule/
 ---
 
+<!-- TODO: Add schedule for NeSy 2026 
+Please note: To enable this page, uncomment the line in _config.yml that says "schedule.md". -->
+
 ## Poster Session Mon September 8th
 
 **Main Track**
