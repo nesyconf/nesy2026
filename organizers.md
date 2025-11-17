@@ -24,7 +24,7 @@ Neurosymbolic Methods for Trustworthy and Interpretable AI Special Track Chairs:
 
 Knowledge Graphs, Ontologies and Neurosymbolic AI Special Track Chairs:
 - [Cogan Shimizu](https://cogan-shimizu.github.io/), Wright State University, USA
-- [Claudia d'Amato](https://www.uniba.it/it/docenti/damato-claudia), University of Bari, Italy
+- [Claudia d'Amato](https://www.uniba.it/it/docenti/damato-claudia), University of Bari, Italy -->
 
 ## NeSy Executive Board
 - [Artur d'Avila Garcez](https://www.staff.city.ac.uk/~aag/), City St George's, University of London, UK
