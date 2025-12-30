@@ -8,7 +8,7 @@ permalink: /call-for-papers/
 
 We invite you to submit papers to the 20th International Conference on Neurosymbolic Learning and Reasoning (NeSy 2026), which will be held in Lisbon (Portugal) from September 1-4, 2026.
 
-NeSy is the premier annual conference of the research community working on neurosymbolic AI, integrating symbolic and neural approaches to learning, reasoning, and problem-solving in AI. Accepted papers of NeSy 2026 will be published in XXX.
+NeSy is the premier annual conference of the research community working on neurosymbolic AI, integrating symbolic and neural approaches to learning, reasoning, and problem-solving in AI. Accepted papers of NeSy 2026 will be published in a volume of [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press/).
 This year, there will be two rounds of submissions. From the first round, there will be the capacity for a “revise and resubmit” decision. For such resubmitted papers, we will attempt to use the same reviewers. 
 
 Please contact [organisers@nesyconf.org](mailto:organisers@nesyconf.org) for any questions about submissions.
