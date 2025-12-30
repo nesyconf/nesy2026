@@ -4,16 +4,41 @@
 
 permalink: /
 title: NeSy 2026
-fulltitle: 20th Conference on Neurosymbolic Learning and Reasoning (NeSy 2026)
+fulltitle: 20th Conference on Neurosymbolic Learning and Reasoning (NeSy 2026)  
 layout: home
 ---
+
+<style>
+.fullwidth-banner {
+  width: 100vw;
+  margin-left: calc(50% - 51vw);
+  margin-right: calc(50% - 50vw);
+  overflow: hidden;   /* important */
+}
+
+.fullwidth-banner img {
+  width: 55%;
+  height: auto;
+  display: block;
+  margin: 0 auto;     /* centers image */
+}
+</style>
 
 
 
 <!-- TODO: Add banner for NeSy 2026 conference -->
 <!-- ![Banner for NeSy 2025 conference](assets/img/banner_nesy.jpg) -->
+<div class="fullwidth-banner">
+  <img src="/assets/img/banner_nesy.png"
+       alt="NeSy 2026 Conference – Lisbon, Portugal">
+</div>
 
-**NeSy 2026** will be held in **Lisbon, Portugal, from September 1st to 4th. The location is the Faculty of Sciences of the University of Lisbon.** 
+
+<div style="text-align: center;">
+  <strong>NeSy 2026</strong> will be held in <strong>Lisbon, Portugal, from September 1st to 4th</strong>.<br>
+  The location is the <strong>Faculty of Sciences of the University of Lisbon (FCUL).</strong>
+</div>
+<br>
 
 The NeSy series is the longest standing gathering for the presentation and discussion of cutting-edge research in [neurosymbolic AI](https://people.cs.ksu.edu/~hitzler/nesy/). NeSy is the annual meeting of the [Neurosymbolic Learning and Reasoning Association](https://nesy-ai.org/), which has organised NeSy since 2005, back then as a workshop.
 
