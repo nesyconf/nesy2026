@@ -1,0 +1,65 @@
+# NeSy 2026 Organisation Committee
+organisation_committee:
+  - role: General Chair
+    name: Catia Pesquita
+    institution: LASIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal
+    email: clpesquita@fc.ul.pt
+    photo: https://www.di.fc.ul.pt/~catiapesquita/catia_pesquita_2023.jpeg
+
+  - role: PC Chair
+    name: Alessandra Mileo
+    institution: Insight SFI Research Centre for Data Analytics, Dublin City University , Ireland
+    email: alessandra.mileo@insight-centre.org
+    photo: https://www.insight-centre.org/wp-content/uploads/2020/04/Untitled-design-62.png
+
+  - role: PC Chair
+    name: Cogan Shimizu
+    institution: Wright State University, USA
+    email: cogan.shimizu@wright.edu
+    photo: https://people.wright.edu/sites/people.wright.edu/files/styles/profile_full_page/public/user-uploads/profile-photo/Shimizu%2C%20Cogan%2010-22.jpg?itok=Youyis_v
+  
+  - role: PC Chair
+    name: Andrea Passerini
+    institution: Università degli Studi di Trento, Italy
+    email: andrea.passerini@unitn.it
+    photo: https://disi.unitn.it/~passerini/img/passerini.jpg
+
+  - role: Website & Social Media Chair
+    name: Emile van Krieken
+    institution: Vrije Universiteit Amsterdam, NL
+    email: e.van.krieken@vu.nl
+    photo: https://www.emilevankrieken.com/assets/img/bnaic.jpeg?119950a5e3ccfe7c4de371e9a6fa4a55
+
+  - role: Industry Chair
+    name: Daria Stepanova
+    institution: Bosch Center for Artificial Intelligence, Germany
+    email: daria.Stepanova@de.bosch.com
+    photo: https://dariastepanova.github.io/images/photo_bosch.png
+
+  - role: Proceedings Chair
+    name: Marta Silva
+    institution: LASIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal
+    email: mcdsilva@fc.ul.pt
+    photo: https://lasige.pt/wp-content/uploads/2015/03/marta_silva_3_f-2-300x300.jpg
+
+
+# NeSy Executive Board
+#executive_board:
+  #- name: Artur d'Avila Garcez
+    #institution: City St George's, University of London, UK
+    #email: artur@...
+   # photo: /assets/img/organizers/artur-garcez.jpg
+
+  #- name: Tarek R. Besold
+   # institution: Sony AI, Barcelona, Spain
+  #  email: tarek@...
+ #   photo: /assets/img/organizers/tarek-besold.jpg
+
+  # ...etc
+
+
+#advisory_board:
+#  - name: Marco Gori
+#    institution: University of Siena, Italy
+#  - name: Kristian Kersting
+#    institution: TU Darmstadt, Germany
