@@ -4,44 +4,110 @@ title: Organizers
 permalink: /organizers/
 ---
 
-## NeSy 2026 Organisation Committee 
-- [Catia Pesquita (General Chair)](https://www.di.fc.ul.pt/~catiapesquita/), University of Lisbon, Portugal
-- [Alessandra Mileo (Programme Chair)](https://www.dcu.ie/computing/people/alessandra-mileo), Dublin City University, Ireland 
-- [Cogan Shimizu (Programme Chair)](https://cogan-shimizu.github.io/), Wright State University, USA
-- [Emile van Krieken (Website & Social Media Chair)](https://www.emilevankrieken.com/), Vrije Universiteit Amsterdam, NL 
-- [Daria Stepanova (Industry Chair)](https://dariastepanova.github.io/), Bosch Center for AI, Germany
-- [Marta Silva (Proceedings Chair)](https://ciencias.ulisboa.pt/pt/perfil/mfsilva), University of Lisbon, Portugal
+<style>
+/* Committee-like layout */
+.role-section { margin: 2.2rem 0 2.8rem; }
+.role-title { font-size: 1.4rem; font-weight: 700; margin: 0 0 1rem; }
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1.25rem;
+}
+.person-card {
+  display: grid;
+  grid-template-columns: 96px 1fr;
+  gap: 1rem;
+  padding: 1rem;
+  border: 1px solid rgba(0,0,0,.12);
+  border-radius: 10px;
+  background: #fff;
+}
+.person-photo {
+  width: 96px; height: 96px;
+  border-radius: 6px;
+  object-fit: cover;
+  background: rgba(0,0,0,.04);
+}
+.person-name { font-weight: 700; margin: 0; line-height: 1.2; }
+.person-meta { margin: .25rem 0 0; color: rgba(0,0,0,.75); }
+.person-email { margin: .35rem 0 0; }
+.person-email a { text-decoration: none; }
+.person-email a:hover { text-decoration: underline; }
+.small-muted { color: rgba(0,0,0,.65); font-size: .95rem; }
+</style>
+
+{% assign committee = site.data.organizers.organisation_committee %}
+{% assign roles = committee | map: "role" | uniq %}
+
+<div class="role-section">
+  <h2 class="role-title">NeSy 2026 Organisation Committee</h2>
+
+  {% for r in roles %}
+    <h3 class="small-muted" style="margin: 1.4rem 0 .8rem;">{{ r }}</h3>
+
+    <div class="people-grid">
+      {% for p in committee %}
+        {% if p.role == r %}
+          <div class="person-card">
+            <img class="person-photo"
+                 src="{{ p.photo | default: '/assets/img/organizers/placeholder.png' }}"
+                 alt="{{ p.name }}">
+            <div>
+              <p class="person-name">
+                {% if p.url %}<a href="{{ p.url }}">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}
+              </p>
+              {% if p.institution %}<p class="person-meta">{{ p.institution }}</p>{% endif %}
+              {% if p.email %}<p class="person-email"><a href="mailto:{{ p.email }}">{{ p.email }}</a></p>{% endif %}
+            </div>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  {% endfor %}
+</div>
 
 
-<!-- ## NeSy 2025 Special Track Chairs
-[Neurosymbolic Generative Models]({{ site.url }}/nesy-generative-models) Special Track Chairs:
-- [Thiviyan Thanapalasingam](https://scholar.google.co.uk/citations?user=F2PvjdUAAAAJ&hl=en), Sony AI, Spain
-- [Kareem Ahmed](https://kareemahmed.com/), University of California, Irvine, USA
-
-Neurosymbolic Methods for Trustworthy and Interpretable AI Special Track Chairs:
-- [Abhilekha Dalal](https://scholar.google.com/citations?user=41YgTS4AAAAJ&hl=en), Kansas State University, USA
-- [Vaishak Belle](https://vaishakbelle.com/), University of Edinburgh, UK
-
-Knowledge Graphs, Ontologies and Neurosymbolic AI Special Track Chairs:
-- [Cogan Shimizu](https://cogan-shimizu.github.io/), Wright State University, USA
-- [Claudia d'Amato](https://www.uniba.it/it/docenti/damato-claudia), University of Bari, Italy -->
-
-## NeSy Executive Board
-- [Artur d'Avila Garcez](https://www.staff.city.ac.uk/~aag/), City St George's, University of London, UK
-- [Tarek R. Besold](https://ai.sony/people/Tarek-Besold/), Sony AI, Barcelona, Spain
-- [Ernesto Jimenez-Ruiz](https://www.city.ac.uk/about/people/academics/ernesto-jimenez-ruiz), City St George's, University of London, UK 
-- [Leilani H. Gilpin](https://people.ucsc.edu/~lgilpin/), UC Santa Cruz, CA, USA
-- [Pascal Hitzler](https://www.cs.ksu.edu/about/people/faculty/hitzler/), Kansas State University, USA
-
-## NeSy Advisory Board
-- Marco Gori, University of Siena, Italy
-- Kristian Kersting, TU Darmstadt, Germany 
-- Kai-Uwe Kühnberger, Osnabrueck University, Germany 
-- Luis Lamb, University of Rio Grande do Sul, Brazil
-- Luc de Raedt, KU Leuven, Belgium 
-- Francesca Rossi, IBM Research, New York, USA
-- Danny Silver, Acadia University, Canada
-- Leslie Valiant, University of Harvard, USA
+{% if site.data.organizers.executive_board %}
+<div class="role-section">
+  <h2 class="role-title">NeSy Executive Board</h2>
+  <div class="people-grid">
+    {% for p in site.data.organizers.executive_board %}
+      <div class="person-card">
+        <img class="person-photo"
+             src="{{ p.photo | default: '/assets/img/organizers/placeholder.png' }}"
+             alt="{{ p.name }}">
+        <div>
+          <p class="person-name">
+            {% if p.url %}<a href="{{ p.url }}">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}
+          </p>
+          {% if p.institution %}<p class="person-meta">{{ p.institution }}</p>{% endif %}
+          {% if p.email %}<p class="person-email"><a href="mailto:{{ p.email }}">{{ p.email }}</a></p>{% endif %}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
 
 
-<!-- ## NeSy 2026 Program Committee -->
+{% if site.data.organizers.advisory_board %}
+<div class="role-section">
+  <h2 class="role-title">NeSy Advisory Board</h2>
+  <div class="people-grid">
+    {% for p in site.data.organizers.advisory_board %}
+      <div class="person-card">
+        <img class="person-photo"
+             src="{{ p.photo | default: '/assets/img/organizers/placeholder.png' }}"
+             alt="{{ p.name }}">
+        <div>
+          <p class="person-name">
+            {% if p.url %}<a href="{{ p.url }}">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}
+          </p>
+          {% if p.institution %}<p class="person-meta">{{ p.institution }}</p>{% endif %}
+          {% if p.email %}<p class="person-email"><a href="mailto:{{ p.email }}">{{ p.email }}</a></p>{% endif %}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
