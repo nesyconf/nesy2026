@@ -4,47 +4,36 @@ title: Call for Papers
 permalink: /call-for-papers/
 ---
 
-<!-- TODO: Add call for papers for NeSy 2026 
+<!-- TODO: 
+- ADD WHERE THE PAPERS WILL BE PUBLISHED
+- ADD SUBMISSION PHASE 2 INFO?
+- All deadlines are 11:59 PM, AoE. Please use [OpenReview](https://openreview.net/group?id=nesyconf.org/NeSy/2025/Conference_Phase_2) for the late submissions, extended abstracts and industry abstracts. ???
+- Are OpenReview links the same but 2026?
+
 Please note: To enable this page, uncomment the line in _config.yml that says "callforpapers.md". -->
 
-We invite you to submit papers to the 19th International Conference on Neurosymbolic Learning and Reasoning (NeSy 2025), held in Santa Cruz (CA, USA) from September 8-10, 2025.
+We invite you to submit papers to the 20th International Conference on Neurosymbolic Learning and Reasoning (NeSy 2026), which will be held in Lisbon (Portugal) from September 1-4, 2026.
 
-NeSy is the premier annual conference of the research community working on neurosymbolic AI, integrating symbolic and neural approaches to learning, reasoning, and problem-solving in AI. Accepted papers of NeSy 2025 will be published in a volume of [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press/).
+NeSy is the premier annual conference of the research community working on neurosymbolic AI, integrating symbolic and neural approaches to learning, reasoning, and problem-solving in AI. Accepted papers of NeSy 2026 will be published in XXX.
+This year, there will be two rounds of submissions. From the first round, there will be the capacity for a “revise and resubmit” decision. For such resubmitted papers, we will attempt to use the same reviewers. 
 
 Please contact [organisers@nesyconf.org](mailto:organisers@nesyconf.org) for any questions about submissions.
 
 ## Relevant Dates
 
 Full and Short Paper Submissions (Submission Phase 1)
-- ~~Full and short paper abstract deadline: February 28, 2025~~
-- ~~Full and short paper submission: March 7, 2025~~
-- ~~Author notification: April 18, 2025~~
-- ~~Camera-ready papers: May 30, 2025~~
+- Full and short paper abstract deadline: February 24, 2026
+- Full and short paper submission: March 3, 2026
+- Author notification: April 24, 2026
+- Camera-ready: May 24, 2026
 
-Late Submissions (Submission Phase 2)
-- ~~Late papers (full and short) and extended abstract submission: June 6, 2025~~
-- ~~Author notifications: July 11, 2025~~
-- ~~Camera-ready papers: August 1, 2025~~
+All deadlines are 11:59 PM, AoE. 
 
-Industry abstracts
-- ~~Industry abstract deadline: June 15, 2025~~
-- ~~Author notifications: July 11, 2025~~
-- ~~Late submissions: August 1, 2025~~
-- ~~Author notifications: August 6, 2025~~
-
-
-All deadlines are 11:59 PM, AoE. Please use [OpenReview](https://openreview.net/group?id=nesyconf.org/NeSy/2025/Conference_Phase_2) for the late submissions, extended abstracts and industry abstracts. 
 
 ## Subject Areas 
 The NeSy conference invites theoretical, experimental and applied submissions on the integration of neural networks and symbolic AI.
-
-This year, we have three Special Tracks:
-- [Neurosymbolic Generative Models]({{ site.url }}/nesy-generative-models);
-- [Knowledge Graphs, Ontologies and Neurosymbolic AI]({{site.url}}/kgs-ontologies);
-- [Neurosymbolic Methods for Trustworthy and Interpretable AI]({{site.url}}/thrusworthy-interpretable)
-
-In addition, we invite papers on all topics related to Neurosymbolic AI, including but not limited to
-- Informed Machine Learning;
+We invite papers on all topics related to Neurosymbolic AI, including but not limited to
+- Informed or physics-aware Machine Learning;
 - Addressing knowledge representation and reasoning tasks using neural networks;
 - Code generation and knowledge engineering with neural networks, including with LLMs;
 - Studying and improving LLM reasoning with Neurosymbolic methods;
@@ -53,9 +42,11 @@ In addition, we invite papers on all topics related to Neurosymbolic AI, includi
 - Embedding methods for structured information;
 - Circuits and knowledge compilation for Neurosymbolic AI;
 - Specification and verification of machine/deep learning systems;
-- Neurosymbolic methods for reinforcement learning, causality, structure learning, transfer, meta, multitask and continual learning, relational learning, graph neural networks;
-- Applications of Neurosymbolic AI, including in education, law, simulation, finance, healthcare, robotics, software engineering, systems engineering, bioinformatics, and visual intelligence;
+- Neurosymbolic AI frameworks: architecture, integration, and composition of different neural or symbolic components
+- Neurosymbolic methods for reinforcement, causality, structure, transfer, meta, multitask, continual, or relational learning, and graph neural networks;
+- Applications of Neurosymbolic AI, including in education, law, simulation, finance, healthcare, robotics, software engineering, systems engineering, bioinformatics, and visual intelligence.
 
+<!--
 ## Submission guidelines 
 - All submissions should be made before the deadline on [our OpenReview page](https://openreview.net/group?id=nesyconf.org/NeSy/2025/Conference_Phase_2). 
 - Please use the **Latex template** available at [this link](https://drive.google.com/drive/folders/1_SmJI3rx548k6KkTPP5QLZoJ8lois26D?usp=sharing). This was updated on 9 May.
@@ -74,5 +65,5 @@ The conference will be held **in-person**, and authors of accepted papers are re
 Accepted paper authors will be invited to submit **extended versions** of papers to a special issue of the [Neurosymbolic Artificial Intelligence journal](https://neurosymbolic-ai-journal.com/content/about-neurosymbolic-artificial-intelligence).
 
 All questions about submissions should be addressed to [organisers@nesyconf.org](mailto:organisers@nesyconf.org). 
-
+-->
 
