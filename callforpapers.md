@@ -27,6 +27,11 @@ Full and Short Paper Submissions (Submission Phase 2)
 - Author notification: July 8, 2026
 - Camera-ready: July 20, 2026
 
+Industry
+- Coming up.
+
+PhD Symposium
+- Coming up.
 
 All deadlines are 11:59 PM, AoE. 
 
