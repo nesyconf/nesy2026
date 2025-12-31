@@ -32,6 +32,7 @@ permalink: /organizers/
 /* ===== Person card ===== */
 
 .person-card {
+  position: relative;
   display: grid;
   grid-template-columns: 112px 1fr;
   gap: 1.25rem;
@@ -39,7 +40,6 @@ permalink: /organizers/
   border: 1.5px solid rgba(0,0,0,.15);
   border-radius: 12px;
   background: #fff;
-  width: 100%;
 }
 
 .person-photo {
@@ -99,6 +99,8 @@ permalink: /organizers/
 {% assign committee = site.data.organizers.organisation_committee %}
 {% assign roles = committee | map: "role" | uniq %}
 
+<!-- ================= Organisation Committee ================= -->
+
 <div class="role-section">
   <h2 class="role-title">NeSy 2026 Organisation Committee</h2>
 
@@ -109,27 +111,15 @@ permalink: /organizers/
       {% for p in committee %}
         {% if p.role == r %}
           <div class="person-card">
-            <img
-              class="person-photo"
-              src="{{ p.photo | default: '/assets/img/organizers/placeholder.png' }}"
-              alt="{{ p.name }}"
-            >
+            <img class="person-photo"
+                 src="{{ p.photo | default: '/assets/img/organizers/placeholder.png' }}"
+                 alt="{{ p.name }}">
             <div>
               <p class="person-name">
-                {% if p.url %}
-                  <a href="{{ p.url }}">{{ p.name }}</a>
-                {% else %}
-                  {{ p.name }}
-                {% endif %}
+                {% if p.url %}<a href="{{ p.url }}">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}
               </p>
-              {% if p.institution %}
-                <p class="person-meta">{{ p.institution }}</p>
-              {% endif %}
-              {% if p.email %}
-                <p class="person-email">
-                  <a href="mailto:{{ p.email }}">{{ p.email }}</a>
-                </p>
-              {% endif %}
+              {% if p.institution %}<p class="person-meta">{{ p.institution }}</p>{% endif %}
+              {% if p.email %}<p class="person-email"><a href="mailto:{{ p.email }}">{{ p.email }}</a></p>{% endif %}
             </div>
           </div>
         {% endif %}
@@ -138,60 +128,23 @@ permalink: /organizers/
   {% endfor %}
 </div>
 
-{% if site.data.organizers.executive_board %}
+<!-- ================= Volunteer Team (single list) ================= -->
+
+{% if site.data.organizers.volunteer_team %}
 <div class="role-section">
-  <h2 class="role-title">NeSy Executive Board</h2>
+  <h2 class="role-title">NeSy 2026 Volunteer Team</h2>
+
+  {% assign volunteers = site.data.organizers.volunteer_team | sort: "name" %}
 
   <div class="people-grid">
-    {% for p in site.data.organizers.executive_board %}
+    {% for p in volunteers %}
       <div class="person-card">
-        <img
-          class="person-photo"
-          src="{{ p.photo | default: '/assets/img/organizers/placeholder.png' }}"
-          alt="{{ p.name }}"
-        >
+        <img class="person-photo"
+             src="{{ p.photo | default: '/assets/img/organizers/placeholder.png' }}"
+             alt="{{ p.name }}">
         <div>
           <p class="person-name">
-            {% if p.url %}
-              <a href="{{ p.url }}">{{ p.name }}</a>
-            {% else %}
-              {{ p.name }}
-            {% endif %}
-          </p>
-          {% if p.institution %}
-            <p class="person-meta">{{ p.institution }}</p>
-          {% endif %}
-          {% if p.email %}
-            <p class="person-email">
-              <a href="mailto:{{ p.email }}">{{ p.email }}</a>
-            </p>
-          {% endif %}
-        </div>
-      </div>
-    {% endfor %}
-  </div>
-</div>
-{% endif %}
-
-{% if site.data.organizers.advisory_board %}
-<div class="role-section">
-  <h2 class="role-title">NeSy Advisory Board</h2>
-
-  <div class="people-grid">
-    {% for p in site.data.organizers.advisory_board %}
-      <div class="person-card">
-        <img
-          class="person-photo"
-          src="{{ p.photo | default: '/assets/img/organizers/placeholder.png' }}"
-          alt="{{ p.name }}"
-        >
-        <div>
-          <p class="person-name">
-            {% if p.url %}
-              <a href="{{ p.url }}">{{ p.name }}</a>
-            {% else %}
-              {{ p.name }}
-            {% endif %}
+            {% if p.url %}<a href="{{ p.url }}">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}
           </p>
           {% if p.institution %}
             <p class="person-meta">{{ p.institution }}</p>

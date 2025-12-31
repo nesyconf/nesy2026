@@ -17,7 +17,7 @@ organisation_committee:
     institution: Wright State University, USA
     email: cogan.shimizu@wright.edu
     photo: https://people.wright.edu/sites/people.wright.edu/files/styles/profile_full_page/public/user-uploads/profile-photo/Shimizu%2C%20Cogan%2010-22.jpg?itok=Youyis_v
-  
+
   - role: PC Chairs
     name: Andrea Passerini
     institution: Università degli Studi di Trento, Italy
@@ -43,23 +43,77 @@ organisation_committee:
     photo: https://lasige.pt/wp-content/uploads/2015/03/marta_silva_3_f-2-300x300.jpg
 
 
-# NeSy Executive Board
-#executive_board:
-  #- name: Artur d'Avila Garcez
-    #institution: City St George's, University of London, UK
-    #email: artur@...
-   # photo: /assets/img/organizers/artur-garcez.jpg
+# NeSy Volunteer Team
+volunteer_team:
+  - role: Website maintenance
+    name: Lucas Ferraz
+    institution: LASIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal
+    email: jlucasfferraz@gmail.com
+    photo: https://liseda-lab.github.io/assets/img/people/Lucas_Ferraz.png
+    lead: Website maintenance
 
-  #- name: Tarek R. Besold
-   # institution: Sony AI, Barcelona, Spain
-  #  email: tarek@...
- #   photo: /assets/img/organizers/tarek-besold.jpg
+  - role: Badges / Social Media
+    name: Susana Nunes
+    institution: LASIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal
+    email: scnunes@ciencias.ulisboa.pt
+    photo: https://liseda-lab.github.io/assets/img/people/Susana_Nunes.jpg
+    lead: Badges
 
-  # ...etc
+  - role: Badges
+    name: Leandro Duarte
+    institution: LASIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal
+    email: leandro.gon.duarte@gmail.com
+    photo: https://lasige.pt/wp-content/uploads/2015/03/LASIGEPhotoLeandroDuarte-300x300.png
 
 
-#advisory_board:
-#  - name: Marco Gori
-#    institution: University of Siena, Italy
-#  - name: Kristian Kersting
-#    institution: TU Darmstadt, Germany
+  - role: Conference Streaming
+    name: Ana Filipa Rodrigues
+    institution: LASIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal
+    email: afdrodrigues@fc.ul.pt
+    photo: https://liseda-lab.github.io/assets/img/people/Ana_Filipa_Rodrigues.jpg
+    lead: Conference Streaming
+
+  - role: Catering / Socials
+    name: Laura Balbi
+    institution: LASIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal
+    email: ldbalbi@fc.ul.pt
+    photo: https://avatars.githubusercontent.com/u/72658323?v=4
+    lead: Catering / Socials
+
+  - role: Conference Streaming / Catering / Socials
+    name: Mariana Gouveia
+    institution: LASIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal
+    email: marianacostagouveia@gmail.com
+    photo: https://liseda-lab.github.io/assets/img/people/Mariana_Gouveia.jpg
+
+  - role: Social Media / Website maintenance / Badges
+    name: Ricardo Carvalho
+    institution: LASIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal
+    email: rmscarvalho@fc.ul.pt
+    photo: https://liseda-lab.github.io/assets/img/people/Ricardo_Carvalho.jpg
+    lead: Social Media
+
+  - role: Website maintenance / Social Media
+    name: Diogo Venes
+    institution: LASIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal
+    email: dmvenes@gmail.com
+    photo: https://liseda-lab.github.io/assets/img/people/Diogo_Venes.png
+
+  - role:
+    name: Pedro Cotovio
+    institution: LASIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal
+    email: pgcotovio@ciencias.ulisboa.pt
+    photo: https://lasige.pt/wp-content/uploads/2015/03/pedro_cotovio_f-2.jpg
+
+
+# executive_board:
+#   - name: Artur d'Avila Garcez
+#     institution: City St George's, University of London, UK
+#     email: artur@...
+#     photo: /assets/img/organizers/artur-garcez.jpg
+
+# advisory_board:
+#   - name: Marco Gori
+#     institution: University of Siena, Italy
+#   - name: Kristian Kersting
+#     institution: TU Darmstadt, Germany
