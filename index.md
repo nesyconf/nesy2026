@@ -17,10 +17,18 @@ layout: home
 }
 
 .fullwidth-banner img {
-  width: 55%;
+  /* Cap image size on large screens and improve mobile sizing */
+  width: min(92vw, 1100px);
   height: auto;
   display: block;
   margin: 0 auto;     /* centers image */
+}
+
+/* Ensure the image is comfortably sized on small screens */
+@media (max-width: 600px) {
+  .fullwidth-banner img {
+    width: min(95vw, 600px);
+  }
 }
 </style>
 
