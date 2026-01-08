@@ -29,7 +29,7 @@ layout: home
 <!-- TODO: Add banner for NeSy 2026 conference -->
 <!-- ![Banner for NeSy 2025 conference](assets/img/banner_nesy.jpg) -->
 <div class="fullwidth-banner">
-  <img src="/assets/img/banner_nesy.png"
+  <img src="/assets/img/nesy_image.png"
        alt="NeSy 2026 Conference – Lisbon, Portugal">
 </div>
 
