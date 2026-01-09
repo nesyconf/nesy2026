@@ -71,7 +71,7 @@ The conference will be held **in-person**. At least one author for each accepted
 
 ## Review process
 - **Reviewing** will be double-blind. 
-- After notification, **reviews of accepted papers will be made available on [OpenReview](https:example.com)** along with the originally submitted version of the paper. 
+- After notification, **reviews of accepted papers will be made available on [OpenReview](https://openreview.net/group?id=nesyconf.org/NeSy/2026/Conference#tab-recent-activity)** along with the originally submitted version of the paper. 
   - Reviewers remain anonymous unless they opt in to them being named.
 - Reviewers will be provided a “Reject and Resubmit” decision (R&R), which takes the place of “weak reject.” At the editorial discretion of the Chairs, such papers with this predominant decision will be invited to submit to the second round (competing with other papers of the second round).
   - Authors will be required to submit a changelog and detailed response (similar to a journal article revision cover letter) as part of their supplemental data.
