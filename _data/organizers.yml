@@ -3,44 +3,37 @@ organisation_committee:
   - role: General Chair
     name: Catia Pesquita
     institution: LASIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal
-    email: clpesquita@fc.ul.pt
     photo: https://www.di.fc.ul.pt/~catiapesquita/catia_pesquita_2023.jpeg
 
 
   - role: PC Chairs
     name: Alessandra Mileo
     institution: Insight SFI Research Centre for Data Analytics, Dublin City University, Ireland
-    email: alessandra.mileo@insight-centre.org
     photo: https://www.insight-centre.org/wp-content/uploads/2020/04/Untitled-design-62.png
 
   - role: PC Chairs
     name: Cogan Shimizu
     institution: Wright State University, USA
-    email: cogan.shimizu@wright.edu
     photo: https://people.wright.edu/sites/people.wright.edu/files/styles/profile_full_page/public/user-uploads/profile-photo/Shimizu%2C%20Cogan%2010-22.jpg?itok=Youyis_v
 
   - role: PC Chairs
     name: Andrea Passerini
     institution: Università degli Studi di Trento, Italy
-    email: andrea.passerini@unitn.it
     photo: https://disi.unitn.it/~passerini/img/passerini.jpg
 
   - role: Website & Social Media Chair
     name: Emile van Krieken
     institution: Vrije Universiteit Amsterdam, NL
-    email: e.van.krieken@vu.nl
     photo: https://www.emilevankrieken.com/assets/img/bnaic.jpeg?119950a5e3ccfe7c4de371e9a6fa4a55
 
   - role: Industry Chair
     name: Daria Stepanova
     institution: Bosch Center for Artificial Intelligence, Germany
-    email: daria.Stepanova@de.bosch.com
     photo: https://dariastepanova.github.io/images/photo_bosch.png
 
   - role: Proceedings Chair
     name: Marta Silva
     institution: LASIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal
-    email: mcdsilva@fc.ul.pt
     photo: https://lasige.pt/wp-content/uploads/2015/03/marta_silva_3_f-2-300x300.jpg
 
 
@@ -49,61 +42,52 @@ volunteer_team:
   - role: Website maintenance
     name: Lucas Ferraz
     institution: LASIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal
-    email: jlucasfferraz@gmail.com
     photo: https://liseda-lab.github.io/assets/img/people/Lucas_Ferraz.png
     lead: Website maintenance
 
   - role: Badges / Social Media
     name: Susana Nunes
     institution: LASIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal
-    email: scnunes@ciencias.ulisboa.pt
     photo: https://liseda-lab.github.io/assets/img/people/Susana_Nunes.jpg
     lead: Badges
 
   - role: Badges
     name: Leandro Duarte
     institution: LASIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal
-    email: leandro.gon.duarte@gmail.com
     photo: https://lasige.pt/wp-content/uploads/2015/03/LASIGEPhotoLeandroDuarte-300x300.png
 
 
   - role: Conference Streaming
     name: Ana Filipa Rodrigues
     institution: LASIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal
-    email: afdrodrigues@fc.ul.pt
     photo: https://liseda-lab.github.io/assets/img/people/Ana_Filipa_Rodrigues.jpg
     lead: Conference Streaming
 
   - role: Catering / Socials
     name: Laura Balbi
     institution: LASIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal
-    email: ldbalbi@fc.ul.pt
     photo: https://avatars.githubusercontent.com/u/72658323?v=4
     lead: Catering / Socials
 
   - role: Conference Streaming / Catering / Socials
     name: Mariana Gouveia
     institution: LASIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal
-    email: marianacostagouveia@gmail.com
     photo: https://liseda-lab.github.io/assets/img/people/Mariana_Gouveia.jpg
 
   - role: Social Media / Website maintenance / Badges
     name: Ricardo Carvalho
     institution: LASIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal
-    email: rmscarvalho@fc.ul.pt
     photo: https://liseda-lab.github.io/assets/img/people/Ricardo_Carvalho.jpg
     lead: Social Media
 
   - role: Website maintenance / Social Media
     name: Diogo Venes
     institution: LASIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal
-    email: dmvenes@gmail.com
     photo: https://liseda-lab.github.io/assets/img/people/Diogo_Venes.png
 
   - role:
     name: Pedro Cotovio
     institution: LASIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal
-    email: pgcotovio@ciencias.ulisboa.pt
     photo: https://lasige.pt/wp-content/uploads/2015/03/pedro_cotovio_f-2.jpg
 
 
