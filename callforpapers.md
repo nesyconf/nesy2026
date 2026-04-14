@@ -65,7 +65,7 @@ We invite papers on all topics related to Neurosymbolic AI, including but not li
 - **PhD symposium papers** should provide an overview of the PhD research plan in neurosymbolic AI and should not exceed 4 pages. 
 - **Industry papers** should provide an overview of the industrial effort related to neurosymbolic AI and should not exceed 4 pages.
 - **First round resubmissions which are invited to resubmit in the late deadline** should fill in the text field in the form indicating the changes done from the first round and how they address the reviewers’ comments. These papers will be assigned to the same reviewers as the first round.
-
+- **All submissions must be anonymized** and must not include any information that could intentionally or unintentionally compromise the double-blind review process. Authors may share versions of their work on preprint platforms such as arXiv.
 The conference will be held **in-person**. At least one author for each accepted paper is requested to physically attend the conference to present their work.
 
 
