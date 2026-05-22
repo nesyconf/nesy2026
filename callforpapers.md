@@ -20,7 +20,7 @@ Main Track - Phase 1
 - Full and short paper abstract deadline: February 24, 2026
 - Full and short paper submission: March 3, 2026
 - Author notification: April 24, 2026
-- Camera-ready: May 24, 2026
+- Camera-ready: June 3rd, 2026
 
 Main Track - Phase 2 
 - Late full and short paper abstract submission: June 9, 2026
