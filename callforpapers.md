@@ -28,8 +28,12 @@ Main Track - Phase 2
 - Author notifications: July 8, 2026
 - Camera-ready: July 20, 2026
 
-Industry
-- Coming up.
+Industry **NEW** (Call for Papers soon)
+- Extended abstract submission deadline: July 17, 2026
+- Author notification: July 31, 2026 
+- Camera ready: August 15, 2026
+- Industry registration deadline: August 10, 2026
+
 
 PhD Symposium
 - Coming up.
