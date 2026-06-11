@@ -43,7 +43,7 @@ header_pages:
 - speakers.md
 - organizers.md
 - callforpapers.md
-# - travel_information.md
+- travel-information.md
 - registration.md
 # - schedule.md
 # - papers.md
