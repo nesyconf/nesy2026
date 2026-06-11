@@ -110,7 +110,7 @@ The focus is on deployed systems, business value, and the challenges of moving f
 
 ## Industry Track: Submission Guidelines
 
-* **Submission Portal:** All submissions must be made through OpenRevies before the deadline. See submission link: [https://openreview.net/group?id=nesyconf.org/NeSy/2026]
+* **Submission Portal:** All submissions must be made through Easychair before the deadline. See submission link (soon).
 * **Page Limit:** Industry track submissions should provide an overview of an industrial effort related to neuro-symbolic AI and need to be 3 to 4 pages, excluding references.
 * **Formatting:** Please use the official LaTeX conference template.
 * **Content Focus:** Submissions should describe a real-world application, its impact, and the lessons learned. Purely promotional or marketing material will be rejected.
