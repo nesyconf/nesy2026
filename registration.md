@@ -6,7 +6,7 @@ permalink: /registration/
 
 ### Registration
 
-You can register for the conference at the following link [https://nesy-ai.org/conferences/nesy-2026](https://nesy-ai.org/conferences/nesy-2026).
+You can register for the conference at the following link [https://nesy-ai.org/conference-registration](https://nesy-ai.org/conference-registration).
 
 The early registration fees (by August 10) are: 
 - €250 for students
