@@ -6,16 +6,14 @@ permalink: /registration/
 
 ### Registration
 
-You can register for the conference by creating an IRIS account and registering at the following link [https://ucsc.irisregistration.com/Form/nesy2025](https://ucsc.irisregistration.com/Form/nesy2025).
+You can register for the conference at the following link [https://nesy-ai.org/conferences/nesy-2026](https://nesy-ai.org/conferences/nesy-2026).
 
-The early registration fees (by August 7) are: 
-- $250 for students
-- $500 for general
+The early registration fees (by August 10) are: 
+- €250 for students
+- €500 for general
 
-The late registration fee (starting August 8) is $800
+The late registration fee (starting August 11) is €800
 
-For information about Santa Cruz and local accomodations, check out the page on [travel information](/travel_information/).
+For information about Lisbon and local accommodations, check out the page on [travel information](/travel_information/).
 
-### Travel Grant Opportunities
-There are a limited number of [travel grants](/travel_grants/) for US-based students and early career researchers.  Deadline is July 23, 2025.
 
