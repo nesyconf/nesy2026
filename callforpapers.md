@@ -91,7 +91,6 @@ Accepted paper authors will be invited to submit **extended versions** of papers
 
 The Industry Track invites submissions detailing the practical application of neuro-symbolic AI in real-world settings. With neuro-symbolic AI applications, we include applications that:
 
-* solve symbolic problems with VS,
 * solve complex problems through coupling of deep learning and symbolic components,
 * use symbolic knowledge bases and expressive metadata to improve deep learning systems,
 * support explainability through background knowledge (XAI),
