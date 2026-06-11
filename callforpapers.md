@@ -28,7 +28,7 @@ Main Track - Phase 2
 - Author notifications: July 8, 2026
 - Camera-ready: July 20, 2026
 
-Industry **NEW** (Call for Papers soon)
+Industry **NEW** [Call for Papers](#industry-track) 
 - Extended abstract submission deadline: July 17, 2026
 - Author notification: July 31, 2026 
 - Camera ready: August 15, 2026
@@ -40,7 +40,7 @@ PhD Symposium
 
 All deadlines are 11:59 PM, AoE. 
 
-
+# Main Track
 ## Subject Areas 
 
 The NeSy conference invites theoretical, experimental and applied submissions on the integration of neural networks and symbolic AI.
@@ -83,6 +83,42 @@ The conference will be held **in-person**. At least one author for each accepted
   - An R&R decision does not guarantee acceptance in the second round.
 
 Accepted paper authors will be invited to submit **extended versions** of papers to a special issue of the [Neurosymbolic Artificial Intelligence journal](https://neurosymbolic-ai-journal.com/content/about-neurosymbolic-artificial-intelligence).
+
+
+# Industry Track
+
+## Industry Track: Topics of Interest
+
+The Industry Track invites submissions detailing the practical application of neuro-symbolic AI in real-world settings. With neuro-symbolic AI applications, we include applications that:
+
+* solve symbolic problems with VS,
+* solve complex problems through coupling of deep learning and symbolic components,
+* use symbolic knowledge bases and expressive metadata to improve deep learning systems,
+* support explainability through background knowledge (XAI),
+* represent knowledge as graph neural networks.
+
+The focus is on deployed systems, business value, and the challenges of moving from research to production. Topics include, but are not limited to:
+
+* Case studies and success stories of deployed neuro-symbolic systems in specific verticals, such as finance, healthcare, robotics, or manufacturing.
+* Best practices and lessons learned from integrating neural and symbolic methods in an industrial context.
+* Integration of Large Language Models (LLMs) with symbolic reasoning to improve factuality, planning, and reliability.
+* Discussions on scalability, reliability, and other challenges encountered in production environments.
+* Design and implementation of guardlines for deep learning systems using symbolic methods, such as mathematical reasoning.
+* Reports on barriers to adoption and strategies for overcoming them.
+* Benchmarks, datasets, tasks, and evaluation metrics or approaches with an industry context.
+* Analyses of business value, ROI, and competitive advantages gained from using hybrid AI.
+
+
+## Industry Track: Submission Guidelines
+
+* **Submission Portal:** All submissions must be made through OpenRevies before the deadline. See submission link: [https://openreview.net/group?id=nesyconf.org/NeSy/2026]
+* **Page Limit:** Industry track submissions should provide an overview of an industrial effort related to neuro-symbolic AI and need to be 3 to 4 pages, excluding references.
+* **Formatting:** Please use the official LaTeX conference template.
+* **Content Focus:** Submissions should describe a real-world application, its impact, and the lessons learned. Purely promotional or marketing material will be rejected.
+* **Review Process:** All submissions must be anonymized to facilitate a double-blind review process.
+* **Presentation:** The conference will be held in person. At least one author for each accepted paper must register and physically attend the conference to present their work.
+* **Proceedings:** Accepted industry papers will be included in the official conference proceedings.
+
 
 All questions about submissions should be addressed to [organisers@nesyconf.org](mailto:organisers@nesyconf.org). 
 
