@@ -34,7 +34,7 @@ organisation_committee:
   - role: Industry Chair
     name: Patrik Schneider
     institution: Siemens AG, Germany & TU Wien, Austria
-    photo: patrik-schneider.png
+    photo: _data/patrik-schneider.png
     
   - role: Proceedings Chair
     name: Marta Silva
