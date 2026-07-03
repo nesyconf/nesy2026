@@ -25,7 +25,7 @@ Main Track - Phase 1
 Main Track - Phase 2 
 - Late full and short paper abstract submission: June 9, 2026
 - Late full and short paper submission: June 16, 2026
-- Author notifications: July 8, 2026
+- Author notifications: July ~8~ 16, 2026
 - Camera-ready: July 20, 2026
 
 Industry **NEW** [Call for Papers](#industry-track) 
