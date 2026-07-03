@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Speakers
+title: Keynote Speakers
 permalink: /speakers/
 ---
 
@@ -93,7 +93,6 @@ permalink: /speakers/
 {% assign speakers = site.speakers | sort: "name" %}
 
 <div class="speakers-section">
-  <h2 class="speakers-title">NeSy 2026 Speakers</h2>
 
   {% if speakers.size > 0 %}
     <div class="speakers-grid">
