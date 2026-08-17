@@ -133,5 +133,4 @@ permalink: /speakers/
 </div>
 
 <p style="margin-top:2rem; font-size:1.1rem; font-weight:600;">
-  More speakers coming soon!
 </p>
