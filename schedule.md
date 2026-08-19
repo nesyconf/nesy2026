@@ -1,7 +1,7 @@
 ---
 layout: schedule
-title: Schedule
-permalink: /schedule/
+title: Program
+permalink: /program/
 ---
 
 <!-- TODO: Add schedule for NeSy 2026 
