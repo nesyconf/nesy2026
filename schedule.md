@@ -32,6 +32,7 @@ Please note: To enable this page, uncomment the line in _config.yml that says "s
 ### Keynote
 
 **09:30–10:30** — **Kanna Shimizu, Neural and Symbolic: Friend or Foe?**
+
 *Amazon Web Services* 
 
 **10:30–11:30** — Coffee break + posters
