@@ -185,8 +185,7 @@ Please note: To enable this page, uncomment the line in _config.yml that says "s
 - **Reason Popper-ly: Patching In-Context Reasoning with Inductive Logic Programming**  
   *Zirong Chen, Meiyi Ma*
 
-**19:00** — Downtown walking tour*
-
+**19:00** — Downtown walking tour (details soon)
 ---
 
 ## September 4
@@ -282,7 +281,7 @@ Please note: To enable this page, uncomment the line in _config.yml that says "s
 - **ANDRE: An Attention-based Neuro-symbolic Differentiable Rule Extractor for Inductive Logic Programming**  
   *Iman Sharifi, Peng Wei, Saber Fallah*
 
-  ## Tips
+## Tips
   Lunch is not included in the conference, but there are several closeby lunch options. 20+ options less than 30min. walk/5min. taxi/uber in this map: https://maps.app.goo.gl/ojzmqBpo5Vju6cyG7
 
 
