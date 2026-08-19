@@ -7,116 +7,282 @@ permalink: /schedule/
 <!-- TODO: Add schedule for NeSy 2026 
 Please note: To enable this page, uncomment the line in _config.yml that says "schedule.md". -->
 
-## Poster Session Mon September 8th
+# NeSy 2026 — Conference Program
 
-**Main Track**
+**September 1–4, 2026**
 
-- SymDQN: Symbolic Knowledge and Reasoning in Neural Network-based Reinforcement Learning (_Ivo Amador, Nina Gierasimczuk_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=ncEGGRYska)
-- Neurosymbolic models based on hybrids of convolutional neural networks and decision trees (_Rasul Kairgeldin, Miguel Á. Carreira-Perpiñán_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=NdbjM5ZCor)
-- High Quality Embeddings for Horn Logic Reasoning (_Yifan Zhang, Yasir White, Dean Clark, Joseph Sanchez, Jevon Lipsey, Ashely Hirst, Jeff Heflin_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=QeZuGranYJ)
-- mULLER: A Modular Monad-Based Semantics of the Neurosymbolic ULLER Framework (_Daniel Romero Schellhorn, Till Mossakowski_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=zIsnMqATI6)
-- Disentangling Neural Disjunctive Normal Form Models (_Kexin Gu Baugh, Vincent Perreault, Matthew Baugh, Luke Dickens, Katsumi Inoue, Alessandra Russo_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=66YzQK1eLW)
-- Hierarchical Neuro-Symbolic Decision Transformer (_Ali Baheri, Cecilia Alm_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=tXOU6EULup)
-- Can Large Reasoning Models do Analogical Reasoning under Perceptual Uncertainty? (_Giacomo Camposampiero, Michael Hersche, Roger Wattenhofer, Abu Sebastian, Abbas Rahimi_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=ZcdBwzcBmV)
-- Neurosymbolic Reasoning Shortcuts under the Independence Assumption (_Emile van Krieken, Pasquale Minervini, Edoardo Ponti, Antonio Vergari_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=ifoKXDf1KS)
-- Neural-Symbolic Architectural Axioms of Integration: A Manifesto (_Connor Pryor, Lise Getoor_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=zvDSg565AA)
-- Which AI Do We Trust? NeuroSymbolic AI in Healthcare (_Jans Aasman_; [Franz Inc.](https://franz.com/)). **Industry Abstract**, [Paper link](/assets/pdf/papers/franz.pdf)
-- Knowledge Augmented Graph Reasoner (KAGR): A Neuro-Symbolic Approach to Instruction Adherence in Healthcare AI (_Ravi Bajracharya, Aniwaa Owusu-Obeng, Aris Saoulidis, Xeno Acharya, Chris Wai Hang Lo, Arun Bajracharya, Dhurba Bhandari_; [datum.md](https://www.datum.md/)). **Industry Abstract**, [Paper link](/assets/pdf/papers/nesy2025-KAGR-datum.pdf)
+## September 1
 
-**Neurosymbolic Generative Models**
+**13:00** — Registration desk
 
-- SymRAG: Efficient Neuro-Symbolic Retrieval Through Adaptive Query Routing (_Safayat Bin Hakim, Muhammad Adil, Alvaro Velasquez, Houbing Herbert Song_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=oXGWKdYPNm)
+**14:00–16:00** — Industry Track / PhD Student Meeting
 
-**Knowledge Graphs, Ontologies and Neurosymbolic AI**
+**16:00–16:30** — Coffee break
 
-- Talking to GDELT Through Knowledge Graphs (_Audun D Myers, Max Vargas, Sinan Guven Aksoy, Cliff Joslyn, Benjamin Wilson, Lee Burke, Tom Grimes_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=fhyQO1hO4k)
-- Understanding the Expressive Capabilities of Knowledge Base Embeddings under Box Semantics (_Mena Leemhuis, Oliver Kutz_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=0d4sp8MjWs)
+**16:30-18:00** — Industry Track / PhD Student Meeting
 
-**Neurosymbolic Methods for Trustworthy and Interpretable AI**
+---
 
-- Object-Centric Neuro-Argumentative Learning (_Abdul Rahman Jacob, Avinash Kori, Emanuele De Angelis, Ben Glocker, Maurizio Proietti, Francesca Toni_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=dBB58hqTXG)
-- Towards Explainable Depression Detection: A Neurosymbolic Approach to Uncover Social Media Signals with Generative AI (_Mohammad Saeid Mahdavinejad, Peyman Adibi, Amirhassan Monajemi, Pascal Hitzler_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=JW0bICKKB3)
-- A Comparative Study of Neurosymbolic AI Approaches to Interpretable Logical Reasoning (_Michael K. Chen_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=uO0oaNY9fC)
-- Concept Probing: Where to Find Human-Defined Concepts (_Manuel de Sousa Ribeiro, Afonso Leote, Joao Leite_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=LSe4snLk8X)
-- Bridging Neural and Symbolic Computation: A Learnability Study of RNNs on Counter and Dyck Languages (_Neisarg Dave, Daniel Kifer, C. Lee Giles, Ankur Mali_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=0ALxF79u73)
-- MC3G: Model Agnostic Causally Constrained Counterfactual Generation (_Sopam Dasgupta, Sadaf MD Halim, Joaquín Arias, Elmer Salazar, Gopal Gupta_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=CePNpwFup1)
-- CRAFT: A Neuro-Symbolic Framework for Visual Functional Affordance Grounding (_Zhou Chen, Joe Lin, Sathyanarayanan N. Aakur_). **Short Paper**, [OpenReview link](https://openreview.net/forum?id=uCAFYKzvju)
-- Act-to-Ground: A Framework for Symbol Grounding in Planning Domains (_Panagiotis Lymperopoulos, Liping Liu_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=2cbCcr4fdD)
-- KEA Explain: Explanations of Hallucinations using Graph Kernel Analysis (_Reilly Haskins, Benjamin Adams_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=sQlQ0mHZ3G)
+## September 2
 
-## Poster Session Tue September 9th
+**08:30–09:00** — Registration desk / poster setup
 
-**Main Track**
+**09:00–09:30** — Opening
 
-- Understanding Boolean Function Learnability on Deep Neural Networks: PAC Learning Meets Neurosymbolic Models (_Marcio Nicolau, Anderson R. Tavares, Zhiwei Zhang, Pedro H. C. Avelar, João Marcos Flach, Luis DC Lamb, Moshe Vardi_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=RrqvMvwpWn)
-- Linearithmic Clean-up for Vector-Symbolic Key-Value Memory with Kroneker Rotation Products (_Ruipeng Liu, Qinru Qiu, Simon Khan, Garrett Ethan Katz_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=MxZZKQfjg5)
-- Generating Safety-Critical Automotive C-programs using LLMs with Formal Verification (_Merlijn Sevenhuijsen, Minal Suresh Patil, Mattias Nyberg, Gustav Ung_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=xcLrUIeGo3)
-- An evidence-based neuro-symbolic framework for ambiguous image scene classification (_Giulia Murtas, Veselka Boeva, Elena Tsiporkova_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=6UnuZcQ2zY)
-- A Neurosymbolic Approach to Counterfactual Fairness (_Xenia Heilmann, Chiara Manganini, Mattia Cerrato, Vaishak Belle_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=YZSDHz3Ydb)
-- T-ILR: a Neurosymbolic Integration for LTLf (_Riccardo Andreoni, Andrei Buliga, Alessandro Daniele, Chiara Ghidini, Marco Montali, Massimiliano Ronzani_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=TI0aaA9Nfa)
-- Neuro-Argumentative Learning with Case-Based Reasoning (_Adam Gould, Francesca Toni_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=tke5yswemI)
-- Neuro-Symbolic Inverse Constrained Reinforcement Learning (_Oliver Deane, Oliver Ray_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=oVb3sJAnfx)
-- LUT Based Neural Networks as Neuro-Symbolic Systems (_Lizy Kurian John, Priscila Machado Vieira Lima, Alan T. L. Bacellar, Shashank Nag, Eugene John, Felipe M.G. França_). **Extended Abstract**, [OpenReview link](https://openreview.net/forum?id=8zLLH9euYp)
-- Beyond the convexity assumption: Realistic tabular data generation under quantifier-free real linear constraints (_Mihaela C. Stoian, Eleonora Giunchiglia_). **Extended Abstract**, [OpenReview link](https://openreview.net/forum?id=y4PZXEJXUc).
-- Neuro‑Symbolic Data Collection Automata for Training Language Models on Edge Devices (_Jake Ryland Williams, August Lilley, Ankur Mali_). **Industry Abstract**, [OpenReview link](https://openreview.net/forum?id=wO7CP2lpCJ)
-- Validating Free Text Against N-Ary Knowledge Graphs (_Jayavanth Shenoy, Jin-Ching Lim, Guha Jayachandran_; [Onai Inc](https://www.onai.com/)). **Industry Abstract**, [Paper link](/assets/pdf/papers/onai_paper.pdf)
+### Keynote
 
-**Neurosymbolic Generative Models**
+**09:30–10:30** — **Kanna Shimizu, Neural and Symbolic: Friend or Foe?**
+*Amazon Web Services* 
 
-- Sound and Complete Neurosymbolic Reasoning with LLM-Grounded Interpretations (_Bradley P. Allen, Prateek Chhikara, Thomas Macaulay Ferguson, Filip Ilievski, Paul Groth_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=yGLdjzQT9m)
-- Learning and Reasoning with Model-Grounded Symbolic Artificial Intelligence Systems (_Aniruddha Chattopadhyay, Raj Dandekar, Kaushik Roy_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=4T8HP1SHOW)
+**10:30–11:30** — Coffee break + posters
 
-**Knowledge Graphs, Ontologies and Neurosymbolic AI**
+### Session 1 — Learning for Constrained Search and Optimization
 
-- Grounding Terms from an Ontology for use in Autoformalization: Tokenization is All You Need (_Richard Thompson, Adam Pease, Mathias Kölsch, Angelos Toutsios_). **Short Paper**, [OpenReview link](https://openreview.net/forum?id=oDygYsPhS8)
-- A Comparative Analysis of Neurosymbolic Methods for Link Prediction (_Guillaume Delplanque, Luisa Werner, Nabil Layaïda, Pierre Geneves_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=hCyqbFapJi)
-- Ontology-based box embeddings and knowledge graphs for predicting phenotypic traits in Saccharomyces cerevisiae (_Filip Kronström, Daniel Brunnsåker, Ievgeniia A. Tiukova, Ross D. King_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=RUiTmnJrSS)
-- Uncertainty Quantification of Knowledge Graph Embedding with Statistical Guarantees (_Yuqicheng Zhu, Nico Potyka, Daniel Hernández, Jiarong Pan, Bo Xiong, Yunjie He, Yuan He, Zifeng Ding, Evgeny Kharlamov, Steffen Staab_). **Extended Abstract**, [OpenReview link](https://openreview.net/forum?id=4odAwBAhQ2)
-- DAGE: DAG Query Answering via Relational Combinator with Logical Constraints (_Yunjie He, Bo Xiong, Daniel Hernández, Yuqicheng Zhu, Evgeny Kharlamov, Steffen Staab_). **Extended Abstract**, [OpenReview link](https://openreview.net/forum?id=LM9qGvEOS0)
+**11:30–11:50** — **Sample-efficient Neurosymbolic Proximal Policy Optimization**  
+*Simone Murari, Celeste Veronese, Daniele Meli*
 
-**Neurosymbolic Methods for Trustworthy and Interpretable AI**
+**11:50–12:10** — **Learning to Assemble Novel Structures with Unfamiliar Parts under Semantic Constraints**  
+*Jonghyuk Park, Alex Lascarides, Subramanian Ramamoorthy*
 
-- Extracting PAC Decision Trees from Black Box Binary Classifiers (_Ana Ozaki, Roberto Confalonieri, Ricardo Guimarães, Anders Imenes_). **Extended Abstract**, [OpenReview link](https://openreview.net/forum?id=yjOXOKORQu)
-- Exploring Verification Frameworks for Social Choice Alignment (_Jessica Ciupa, Vaishak Belle, Ekaterina Komendantskaya_). **Short Paper**, [OpenReview link](https://openreview.net/forum?id=BfxoGYNJa3)
-- Explainable Zero-Shot Visual Question Answering via Logic-Based Reasoning (_Thomas Eiter, Jan Hadl, Nelson Higuera Ruiz, Lukas Lange, Johannes Oetsch, Bileam Scheuvens, Jannik Strötgen_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=k4p44AIby6)
-- ArgRAG: Explainable Retrieval Augmented Generation using Quantitative Bipolar Argumentation (_Yuqicheng Zhu, Nico Potyka, Daniel Hernández, Yuan He, Zifeng Ding, Bo Xiong, Dongzhuoran Zhou, Evgeny Kharlamov, Steffen Staab_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=oYFXK9szLN)
-- Rethinking Reasoning in LLMs: Neuro-Symbolic Local RetoMaton Beyond CoT and ICL (_Rushitha Santhoshi Mamidala, Anshuman Chhabra, Ankur Mali_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=ySTqCi3nqi)
+**12:10–12:30** — **LLM-Guided Graph Generation for Structure-Based Local Improvement Methods**  
+*Hai Xia, Vaidyanathan Peruvemba Ramaswamy, Stefan Szeider*
 
-## Poster Session Wed September 10th
+**12:30–14:30** — Lunch break 
 
-**Main Track**
+### Session 2 — Neuro-Symbolic Reasoning under Constraints
 
-- Gestalt Vision: A Dataset for Evaluating Gestalt Principles in Visual Perception (_Jingyuan Sha, Hikaru Shindo, Kristian Kersting, Devendra Singh Dhami_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=I5EPUe0pAB)
-- JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents (_Kaizhi Zheng, Kaiwen Zhou, Jing Gu, Yue Fan, Jialu Wang, Zonglin Di, Xuehai He, Xin Eric Wang_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=T9J96eD2Li)
-- Description Logic Concept Learning using Large Language Models (_Adrita Barua, Pascal Hitzler_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=ebVC7S5VMF)
-- Neurosymbolic Learning in Structured Probability Spaces: A Case Study (_Ole Fenske, Sebastian Bader, Thomas Kirste_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=H09CxBms1D)
-- Evolutionary Surrogate-Assisted Prescription: Neuro-Symbolic Framework for Trustworthy Decisioning (_Hormoz Shahrzad, Risto Miikkulainen_, [Cognizant](https://www.cognizant.com)). **Industry Abstract**, [OpenReview link](https://openreview.net/forum?id=lV3XJUDBTc)
-<!-- - Neurosymbolic AI to Support Unstructured Data Processing in Process and Automation Engineering (_Nicolai Schoch, Mario Hoernicke_). **Industry Abstract**, [OpenReview link](https://openreview.net/forum?id=j8IghokAXF) -->
-- Towards a Neurosymbolic Reasoning System Grounded in Schematic Representations (_François Olivier, Zied Bouraoui_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=bbYk2pD7qY)
-- Do Graph Neural Network States Contain Graph Properties? (_Tom Pelletreau-Duris, Ruud van Bakel, Michael Cochez_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=KZgFHRwNhf)
-- Learning Symbolic Persistent Macro-Actions for POMDP Solving Over Time (_Celeste Veronese, Daniele Meli, Alessandro Farinelli_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=8d7Aj30YF4)
-- A Scalable Approach to Probabilistic Neuro-Symbolic Robustness Verification (_Vasileios Manginas, Nikolaos Manginas, Edward Stevinson, Sherwin Varghese, Nikos Katzouris, Georgios Paliouras, Alessio Lomuscio_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=DAp8WCTGVj)
-- Bayesian Inverse Physics for Neuro-Symbolic Robot Learning (_Octavio Arriaga, Rebecca Carrie Adam, Melvin Laux, Lisa Gutzeit, Marco Ragni, Jan Peters, Frank Kirchner_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=YeT4WtG47d)
-- Recent Advances in Resonator Networks for Neurosymbolic Computing (_Alpha Renner, Christopher Kymn, Edward Paxon Frady, Friedrich Sommer_). **Extended Abstract**, [OpenReview link](https://openreview.net/forum?id=FNrZd3Ls1d)
-- Practical Lessons on Vector-Symbolic Architectures in Deep Learning-Inspired Environments (_Francesco S. Carzaniga, Michael Hersche, Kaspar Schindler, Abbas Rahimi_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=5ZmvZkqyoy)
-- Neurosymbolic Tag-Based Annotation for Interpretable Avatar Creation (_Minghao Liu, Zeyu Cheng, Shen Sang, Jing Liu, James Davis_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=ROcvabXGkL)
-- A Comparative Analysis of NeSy Frameworks and What's Next? (_Sania Sinha, Tanawan Premsri, Parisa Kordjamshidi_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=psXDX4Q8E5)
-- DeepDFA: Learning and Integration of Regular Languages with Deep Learning (_Elena Umili_). **Extended Abstract**, [OpenReview link](https://openreview.net/forum?id=OI89X7HlT0)
+**14:30–14:50** — **DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs**  
+*Saimun Habib, Vaishak Belle, Fengxiang He*
 
-**Neurosymbolic Generative Models**
+**14:50–15:10** — **Learning Deep Generative Models under Hard Linear Equality Constraints**  
+*Ruoyan Li, Dipti Ranjan Sahu, Guy Van den Broeck, Zhe Zeng*
 
-- Enhancing Large Language Models with Neurosymbolic Reasoning for Multilingual Tasks (_Sina Bagheri Nezhad, Ameeta Agrawal_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=T8XSti6sRj)
-- Neural Theorem Proving: Generating and Structuring Proofs for Formal Verification (_Balaji Rao, William Eiers, Carlo Lipizzi_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=QeoJtLyRsn)
+**15:10–15:30** — **From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles**  
+*Paulius Skaisgiris, Thomas Pammer, Veronika Semmelrock, Mykyta Ielanskyi, Maximilian Heisinger, Erich Kobler*
 
-**Knowledge Graphs, Ontologies and Neurosymbolic AI**
+**15:30–15:40** — **SoftReason: A Fully Differentiable Deductive Reasoning Architecture over High-Dimensional Perceptual Data**    
+*Wael AbdAlmageed*
 
-- The ART of Link Prediction with KGEs (_Yannick Brunink, Michael Cochez, Jacopo Urbani_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=xRlIvquvBM)
-- Bridging Bots: from Perception to Action via Multimodal-LMs and Knowledge Graphs (_Margherita Martorana, Francesca Urgese, Mark Adamik, Ilaria Tiddi_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=XZ5UsD6YT6)
-- Evaluating Neuro-Symbolic AI Architectures: Design Principles, Qualitative Benchmark, Comparative Analysis and Results (_Oualid BOUGZIME, Samir JABBAR, Christophe Cruz, Frédéric DEMOLY_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=yCwcRijfXz)
+**15:40–15:50** — **LLM-guided semantic vtrees for SDD compilation**    
+*Alexis de Colnet, Stefan Szeider*
 
-**Neurosymbolic Methods for Trustworthy and Interpretable AI**
+**15:50–16:00** — **NeSyCat Torch: A Differentiable Tensor Implementation of Neuro Symbolic Categories**    
+*Daniel Romero Schellhorn, Till Mossakowski, Björn Gehrke*
 
-- Neurosymbolic Association Rule Mining from Tabular Data (_Erkan Karabulut, Paul Groth, Victoria Degeler_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=baSjVYDlMc)
-- Distilling KGE black boxes into interpretable NeSy models (_Rodrigo Castellano Ontiveros, Francesco Giannini, Michelangelo Diligenti_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=Fv8vaQ13Y4)
-- Adapting Graph-Based Analysis for Knowledge Extraction from Transformer Models (_Alexandre Monnier Weil, Vitor A. C. Horta, Hamza Qadeer, Alessandra Mileo_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=xrSYOIdrPz)
+**16:00-19:00** — Cocktails + posters
+
+### Posters — September 2
+
+- **Constraint-Satisfying Reinforcement Learning via a Neuro-Symbolic Projection Layer**  
+  *Jacob Brand, Francesco Belardinelli, Eleonora Giunchiglia*
+- **Adaptive GR(1)-Specification Repair for Liveness-Preserving Shielding in Reinforcement Learning**  
+  *Tiberiu-Andrei Georgescu, Alex Goodall, Francesco Belardinelli, Dalal Alrajeh, Sebastian Uchitel*
+- **Abstraction and Knowledge in Reinforcement Learning: Evaluating Concept Grounding on Craftax**  
+  *Max Adamski*
+- **Neurosymbolic Discovery of Algebraic Graph Constructions**  
+  *David Seka, Stefan Szeider*
+- **A Neuro-symbolic Approach to Inverse Design of Thin-layer Metamaterials Under Layout Constraints**  
+  *Carlo Adornetto, Marco Duca, Francesco Gallo, Gianluigi Greco, Antonio Ielo, Francesco Ricca, Simone Ventrici*
+- **Generate in the Chart, Not on the Boundary: Function-Symbol Grounding for Hard Constraints in LTN-GANs**  
+  *Nijesh Upreti, Vaishak Belle*
+- **Polyhedral Rule Extraction from ReLU Classifiers**  
+  *Sebastian Bader, Artur d'Avila Garcez*
+- **Improving Interpretability and Accuracy in Neuro-Symbolic Rule Extraction Using Class-Specific Sparse Filters**  
+  *Parth Padalkar, Jaeseong Lee, Shiyi Wei, Gopal Gupta*
+- **Alternate Training Procedures for Neural Logic Networks**  
+  *Vincent Perreault, Richard Labib, Alain Hertz*
+- **Galois Connected Autoencoders as Learnable Adjunctions**  
+  *Jacqueline Mitchell, Chao Wang*
+- **Agentic Neurosymbolic Collaboration for Mathematical Discovery: A Case Study in Combinatorial Design**  
+  *Hai Xia, Carla P Gomes, Bart Selman, Stefan Szeider*
+- **Uncertainty Quantification Employing Evidence Theory and Temporal Reasoning for Video Scene Classification**  
+  *Giulia Murtas, Veselka Boeva, Elena Tsiporkova*
+- **Weakly supervised concept Bottleneck Learning for Robust Two stage Object centric visual reasoning**  
+  *Sparsh Tiwari, Bettina Finzel, Gesina Schwalbe*
+- **Contrastive Learning with Paraphrasing and Negation**  
+  *Kwun Ho Ngan, Saman Sadeghi Afgeh, Artur d'Avila Garcez, Joe Townsend*
+- **Neuro-Symbolic Temporal Question Answering for Explainable Prognostics and Health Management**  
+  *Nirban Das, Rashmi Baruah*
+
+---
+
+## September 3
+
+**08:30–09:00** — Registration desk / poster setup
+
+### Keynote
+
+**09:00–10:00** — **Antonio Vergari**, University of Edinburgh  
+*Things people don't tell you about NeSy AI*
+
+**10:00–11:00** — Coffee break + posters
+
+### Session 1 — Formal Reasoning, Logic & LLMs
+
+**11:00–11:20** — **Steering Aesop for Theorem Proving: Learning to Configure Symbolic Solvers via Multi-Source Neurosymbolic Feedback**  
+*Kai-Yuan Jeng, Ru-Jun Wang, Wen-Tsuen Chen*
+
+**11:20–11:40** — **Distilling Answer Set Programming Theories from Large Language Models**  
+*Nelson Higuera Ruiz, Markus Hofmarcher, Claudiu Leoveanu-Condrei*
+
+**11:40–12:00** — **Can Transformers Perform LTLf Strategic Reasoning? Sometimes**  
+*Giuseppe De Giacomo, Antonio Di Stasio, Eleonora Giunchiglia, Eleni Kougioumtzi*
+
+**12:00–12:10** — **Program Semantic Inequivalence Game with Large Language Models**    
+*Antonio Valerio Miceli Barone, Vaishak Belle, Ali Payani*
+
+**12:10–12:20** — **Converting Language to Logic: Pipeline Shape for Prover-Checked Commonsense Question Answering**    
+*Tanel Tammet, Otto Mättas, Enrico Vompa*
+
+**12:20–12:30** — **Reasoning with Tensor Networks: Solving with Local Contractions**    
+*Martin Eigel, Alex Goessmann, Janina Enrica Schütte*
+
+**12:30–14:30** — Lunch break
+
+### Session 2 — Foundations, Capabilities & the State of Neuro-Symbolic AI
+
+**14:30–14:50** — **ClosureBench: A Benchmark for Reasoning under Closure Assumptions**  
+*Francesco Belardinelli, Flavio Corradini, Matteo Leonesi*
+
+**14:50–15:10** — **From Hybrid Mechanistic–Data-Driven Modeling Toward Neuro-Symbolic AI: What, Why, and How**  
+*Moein E. Samadi, Andreas A. Schuppert*
+
+**15:10–15:20** — **Neurosymbolic Constraint Learning: A Short Survey**    
+*Quinten Dewulf, Annegret Seibt, Simon Odense, Zsolt Zombori, Luc De Raedt*
+
+**15:20–15:30** — **Is Neurosymbolic AI Winning? Analysing Current Progress and Future Challenges**    
+*Martí Ejarque, Zoe Falomir*
+
+**15:30–15:40** — **Emergent Symbolic Structure in Boolean World Models: an Interpretability Analysis**    
+*Davide Bizzaro, Luciano Serafini*
+
+**15:40–15:50** — **Pretrain on Small Synthetic Data, Scale Large for Free: Symmetry-Aware Foundation Model for Logic Rule Induction**    
+*Yin Jun Phua*
+
+**15:50–16:00** — **Modal Logic Neural Networks**    
+*Antonin Sulc, Noor Naddour*
+
+**16:00-18:00** — Coffee break + posters
+
+### Posters — September 3
+
+- **Exploring Retrieval-Augmented Neurosymbolic Generation of HTN Domain Models Using LLMs**  
+  *Varun Rajesh Bhat, Ilche Georgievski*
+- **Neurosymbolic Program Synthesis for the Abstraction and Reasoning Corpus using Vector Symbolic Algebras**  
+  *Isaac Joffe, Chris Eliasmith*
+- **Symbolic Constraints Improve Metacognitive Efficiency in Neuro-Symbolic AI**  
+  *Michael Clopton, Sven Thijssen*
+- **AWARD: Encoding Text Guidelines as ASP Code using LLM Agents**  
+  *Abhiramon Rajasekharan, Gopal Gupta*
+- **G-RRM: Guiding Symbolic Solvers with Recurrent Reasoning Models**  
+  *Timo Bertram, Sidhant Bhavnani, Richard Freinschlag, Erich Kobler, Andreas Mayr, Günter Klambauer*
+- **Distilling Formal Logic into Neural Spaces: A Kernel Alignment Approach for Signal Temporal Logic**  
+  *Sara Candussio, Gabriele Sarti, Gaia Saveri, Luca Bortolussi*
+- **PASTA-G: Tractable Grammar Control of Large Language Models**  
+  *Max Scribner, Antonio Vergari, Vaishak Belle*
+- **A homotopy-type-theoretic generalization of neurosymbolic inference**  
+  *Fernando Zhapa-Camacho, Robert Hoehndorf*
+- **Reason Popper-ly: Patching In-Context Reasoning with Inductive Logic Programming**  
+  *Zirong Chen, Meiyi Ma*
+
+**19:00** — Downtown walking tour*
+
+---
+
+## September 4
+
+**08:30–09:00** — Registration desk / poster setup
+
+### Keynote
+
+**09:00–10:00** — **Francesca Toni**, Imperial College London  
+*Neuro-argumentative learning*
+
+**10:00–11:00** — Coffee break + posters
+
+### Session 1 — Ontologies, Knowledge Graphs & Semantic Representation
+
+**11:00–11:20** — **Soft Ontology Priors over Latent Concept Posteriors for Weakly Supervised Neuro-Symbolic Learning**  
+*Tengwei Song, Robert Hoehndorf*
+
+**11:20–11:40** — **Neuro-symbolic learning over OWL 2 DL via consequence-based compilation to differentiable circuits**  
+*Olga Mashkova, Asaad Mohammedsaleh, Fernando Zhapa-Camacho, Robert Hoehndorf*
+
+**11:40–12:00** — **CORE-LLM-Bench: A Benchmark Dataset for Evaluating Complex Ontological Reasoning Capabilities of Large Language Models**  
+*Julie Loesch, Sara Falahatkar, Nicole Makayla Kilk, Rishabh Jakhar, Raghava Mutharaju, Michel Dumontier, Remzi Celebi*
+
+**12:00–12:10** — **A hierarchy of faithfulness criteria for knowledge base completion**    
+*Olga Mashkova, Robert Hoehndorf*
+
+**12:10–12:20** — **Hierarchy-Aware Semantic Losses for Knowledge Graph Link Prediction**    
+*Filip Kronström, Ross D. King*
+
+**12:20–12:30** — **Faithful Box Embeddings for Linear Temporal EL+**    
+*Daniel Hernández, Jiaxin Pan, Osama Mohammed, Ratan Bahadur Thapa, Steffen Staab*
+
+**12:30–14:30** — Lunch break
+
+### Session 2 — Neuro-Symbolic AI for Knowledge-Rich Applications
+
+**14:30–14:50** — **Hybrid Neurosymbolic Knowledge Enforcement: Integrating Ontologies, Statistics, and LLM Agents for Industrial Data Validation**  
+*Nicolai Schoch, Mohamed Elsheikh, Sebastian Palacio, Thilo Braun*
+
+**14:50–15:10** — **A Neurosymbolic Approach for Explainable Early Diagnosis of Alzheimer’s Disease**  
+*Ranveer Singh, Pranuthi Tenali, Saurabh Mathur, Ameet Soni, Vaishali Phatak, Karla Lynch, Daniel Murman, Matthew Rizzo, Sriraam Natarajan*
+
+**15:10–15:20** — **The Bigger Picture: Neuro-Symbolic Knowledge Graph Enrichment and Anticipatory Inference from Multimodal Content**    
+*Stefano De Giorgis, Guendalina Righetti, Mihai Pomarlan, Nikolaos Tsiogkas, Maria M Hedblom, Mena Leemhuis, Oliver Kutz*
+
+**15:20–15:30** — **Text-to-SPARQL Generation with Reinforcement Learning: A GRPO-based Approach on DBLP**    
+*Jann Pfeifer, Debayan Banerjee, Ricardo Usbeck*
+
+**15:30–15:40** — **Noema: A Neuro-Symbolic Framework for Accountable Conversational AI through Semantic Invariance**    
+*Jose F Quesada*
+
+**15:40–15:50** — **Interpretable Moral Decision-Making under Epistemic Uncertainty**    
+*Jessica Ciupa, Vaishak Belle, Antonia Sewell*
+
+**15:50–16:00** — Buffer
+
+**16:00-17:30** — Coffee break + posters
+
+### Posters — September 4
+
+- **Soft Symbol Grounding for Prototypical Concepts**  
+  *Marcos Galván-López, Nijesh Upreti, Vaishak Belle, Carlos Aguilar-Ibáñez, Hiram Calvo*
+- **NeSy-RAG: Neuro-Symbolic RAG for Explainable Question Answering**  
+  *Jonas Gann, Michael Gertz*
+- **The Question Is a Region: A Neurosymbolic Retrofit for Categorical Question Answering over Rule Engines**  
+  *Martin Schaef, Tancrède Lepoint, Willem Visser, Liana Hadarean*
+- **Dynamic Evidential Routing: A Neurosymbolic Transformer Interface for Calibrated Clinical Prediction Under Extreme Missingness**  
+  *Arjun Vijay Prakash*
+- **Constraint-Guided Enterprise Data Mapping with Large Language Models**  
+  *Sebastian Monka, Pramod Anantharam, Vo Minh Thien, Lavdim Halilaj*
+- **Lightweight Neurosymbolic Edge AI for Wearable Health Monitoring — A Case Study in Intoxication Detection**  
+  *Manuel E. Segura, Richard Ky, Hamza Errahmouni Barkam, Raj Mohanty, Sergio Gago-Masague, Mohsen Imani*
+- **CASSANDRA: Programmatic and Probabilistic Reasoning and Inference for Stochastic World Modeling**  
+  *Panagiotis Lymperopoulos, Abhiramon Rajasekharan, Ian Berlot-Attwell, Stéphane Aroca-Ouellette, Kaheer Suleman*
+- **An Agentic Framework for Neuro-Symbolic Programming**  
+  *Aliakbar Nafar, Chetan Chigurupati, Danial Kamali, Hamid Reza Karimian, Parisa Kordjamshidi*
+
+**17:30-18:00** — Closing
+
+---
+
+## Online Presentations
+
+- **How Compliant Is Sepsis Treatment? An Expert-Guided Neuro-symbolic Pipeline for Generating Clinical Compliance Insights**  
+  *HIMANSHU TRIPATHI, Kaushik Roy, Subash Neupane, Shahram Rahimi*
+- **SWP: Repairing Neuro-Symbolic Reasoning Shortcuts via Satisfaction-Witness Propagation**  
+  *ZhengYi Ma, Ji Wang*
+- **Do CNNs Internally Represent Real and Fake Images Differently? A Hidden-Layer Analysis**  
+  *Moumita Sen Sarma, Pascal Hitzler, Eugene Vasserman*
+- **SymAlign-UAST: Neuro-Symbolic Code Understanding via Hyperbolic Geometry and Structural Invariance**  
+  *Kwangje Baeg, Hoyeob Kim, Janaina Villacis*
+- **ANDRE: An Attention-based Neuro-symbolic Differentiable Rule Extractor for Inductive Logic Programming**  
+  *Iman Sharifi, Peng Wei, Saber Fallah*
+
+  ## Tips
+  Lunch is not included in the conference, but there are several closeby lunch options. 20+ options less than 30min. walk/5min. taxi/uber in this map: https://maps.app.goo.gl/ojzmqBpo5Vju6cyG7
+
 
