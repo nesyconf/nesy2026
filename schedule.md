@@ -31,8 +31,7 @@ Please note: To enable this page, uncomment the line in _config.yml that says "s
 
 ### Keynote
 
-**09:30–10:30** — **Kanna Shimizu, Neural and Symbolic: Friend or Foe?**
-
+**09:30–10:30** — **Kanna Shimizu, Neural and Symbolic: Friend or Foe?**  
 *Amazon Web Services* 
 
 **10:30–11:30** — Coffee break + posters
@@ -113,7 +112,7 @@ Please note: To enable this page, uncomment the line in _config.yml that says "s
 
 ### Keynote
 
-**09:00–10:00** — **Antonio Vergari, Things people don't tell you about NeSy AI**
+**09:00–10:00** — **Antonio Vergari, Things people don't tell you about NeSy AI**  
 *University of Edinburgh*  
 
 **10:00–11:00** — Coffee break + posters
