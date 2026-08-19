@@ -11,7 +11,7 @@ Please note: To enable this page, uncomment the line in _config.yml that says "s
 
 **September 1–4, 2026**
 
-## September 1
+## Tuesday, September 1
 
 **13:00** — Registration desk
 
@@ -23,7 +23,7 @@ Please note: To enable this page, uncomment the line in _config.yml that says "s
 
 ---
 
-## September 2
+## Wednesday, September 2
 
 **08:30–09:00** — Registration desk / poster setup
 
@@ -106,7 +106,7 @@ Please note: To enable this page, uncomment the line in _config.yml that says "s
 
 ---
 
-## September 3
+## Thursday, September 3
 
 **08:30–09:00** — Registration desk / poster setup
 
@@ -188,7 +188,7 @@ Please note: To enable this page, uncomment the line in _config.yml that says "s
 **19:00** — Downtown walking tour (details soon)
 ---
 
-## September 4
+## Friday, September 4
 
 **08:30–09:00** — Registration desk / poster setup
 
@@ -282,4 +282,4 @@ Please note: To enable this page, uncomment the line in _config.yml that says "s
   *Iman Sharifi, Peng Wei, Saber Fallah*
 
 ## Tips
-  Lunch is not included in the conference, but there are several closeby lunch options. 20+ options less than 30min. walk/5min. taxi/uber in this map: https://maps.app.goo.gl/ojzmqBpo5Vju6cyG7
+  Lunch is not included in the conference, but there are several closeby lunch options. 20+ options less than 30min. walk/5min. taxi/uber in this [map.](https://maps.app.goo.gl/ojzmqBpo5Vju6cyG7)
