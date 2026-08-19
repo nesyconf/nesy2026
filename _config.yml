@@ -72,7 +72,7 @@ collections:
     output: true
   schedule:
     sort_by: sequence_id
-    output: false
+    output: true
   papers:
     sort_by: sequence_id
     output: false
