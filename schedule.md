@@ -112,8 +112,8 @@ Please note: To enable this page, uncomment the line in _config.yml that says "s
 
 ### Keynote
 
-**09:00–10:00** — **Antonio Vergari**, University of Edinburgh  
-*Things people don't tell you about NeSy AI*
+**09:00–10:00** — **Antonio Vergari, Things people don't tell you about NeSy AI**
+*University of Edinburgh*  
 
 **10:00–11:00** — Coffee break + posters
 
@@ -195,8 +195,8 @@ Please note: To enable this page, uncomment the line in _config.yml that says "s
 
 ### Keynote
 
-**09:00–10:00** — **Francesca Toni**, Imperial College London  
-*Neuro-argumentative learning*
+**09:00–10:00** — **Francesca Toni, Neuro-argumentative learning**  
+*Imperial College London*
 
 **10:00–11:00** — Coffee break + posters
 
