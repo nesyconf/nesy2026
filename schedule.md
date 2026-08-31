@@ -15,11 +15,34 @@ Please note: To enable this page, uncomment the line in _config.yml that says "s
 
 **13:00** — Registration desk
 
-**14:00–16:00** — Industry Track / PhD Student Meeting
+### Industry Session 1
+
+**14:00–14:10** — Intro
+
+**14:10–14:35** — **Ontology-grounded project memory for coding agents**  
+*James Adam*
+
+**14:35–15:00** — **Structural-Semantic Program Synthesis for Information Extraction**  
+*Oliver Robert Fox, Aare Puussaar, Jack Sharpe, Luke Hope*
+
+**15:00–15:25** — **Co-Evolving Neurosymbolic Conversation Graphs for Safety-Critical Human-AI Collaboration**  
+*Navneet Bhalla*
+
+**15:25–15:50** — **Understanding Before Optimising: A Neuro-Symbolic Benchmark for Multi-Cause Diagnosis in an Industrial Thermal Process**  
+*Diego Tuccillo*
 
 **16:00–16:30** — Coffee break
 
-**16:30-18:00** — Industry Track / PhD Student Meeting
+### Industry Session 2
+
+**16:30–16:55** — **Neuro-Symbolic Industrial Configuration**  
+*Danilo Valerio, Philipp Kogler, Stefan Bischof, Thomas Hubauer, Huzefa Rangwala*
+
+**16:55–17:20** — **Neuro-Symbolic AI for Telecommunication: Opportunities and Challenges**  
+*Klaus Raizer, Swarup Kumar Mohalik, Marin Orlic, Jishnu Sadasivan, Ankita Likhyani, Konstantinos Vandikas, Aneta Vulgarakis Feljan*
+
+**17:20–18:00** — **NeSy Industry Panel Discussion**  
+*Leilani Gilpin (UC Santa Cruz), Martin Schaef (Amazon), Sebastian Monka (Bosch), Danilo Valerio (Siemens), Luke Hope (Ontario); moderated by Patrik Schneider*
 
 ---
 
