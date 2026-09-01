@@ -19,7 +19,7 @@ Please note: To enable this page, uncomment the line in _config.yml that says "s
 
 **14:00–14:10** — Intro
 
-**14:10–14:35** — **Ontology-grounded project memory for coding agents**  
+**14:10–14:35** — **Ontology-Grounded Project Memory for Coding Agents**  
 *James Adam*
 
 **14:35–15:00** — **Structural-Semantic Program Synthesis for Information Extraction**  
@@ -42,7 +42,7 @@ Please note: To enable this page, uncomment the line in _config.yml that says "s
 *Klaus Raizer, Swarup Kumar Mohalik, Marin Orlic, Jishnu Sadasivan, Ankita Likhyani, Konstantinos Vandikas, Aneta Vulgarakis Feljan*
 
 **17:20–18:00** — **NeSy Industry Panel Discussion**  
-*Leilani Gilpin (UC Santa Cruz), Martin Schaef (Amazon), Sebastian Monka (Bosch), Danilo Valerio (Siemens), Luke Hope (Ontario); moderated by Patrik Schneider*
+*Leilani Gilpin (UC Santa Cruz), Martin Schaef (Amazon), Sebastian Monka (Bosch), Danilo Valerio (Siemens), Luke Hope (Onteric); moderated by Patrik Schneider (Siemens)*
 
 ---
 
