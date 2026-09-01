@@ -10,6 +10,7 @@ Please note: To enable this page, uncomment the line in _config.yml that says "s
 # NeSy 2026 — Conference Program
 
 **September 1–4, 2026**
+Room 3.2.14*
 
 ## Tuesday, September 1
 
