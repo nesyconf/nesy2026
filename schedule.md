@@ -186,7 +186,10 @@ Please note: To enable this page, uncomment the line in _config.yml that says "s
 **15:40–15:50** — **[Modal Logic Neural Networks](https://openreview.net/pdf?id=uLOdtBm0Cx)**    
 *Antonin Sulc, Noor Naddour*
 
-**16:00-18:00** — Coffee break + posters
+**15:50–16:10** — **[Hybrid Neurosymbolic Knowledge Enforcement: Integrating Ontologies, Statistics, and LLM Agents for Industrial Data Validation](https://openreview.net/pdf?id=EIGitXAx6Y)**  
+*Nicolai Schoch, Mohamed Elsheikh, Sebastian Palacio, Thilo Braun*
+
+**16:10-18:00** — Coffee break + posters
 
 ### Posters — September 3
 
@@ -247,25 +250,22 @@ Please note: To enable this page, uncomment the line in _config.yml that says "s
 
 ### Session 2 — Neuro-Symbolic AI for Knowledge-Rich Applications
 
-**14:30–14:50** — **[Hybrid Neurosymbolic Knowledge Enforcement: Integrating Ontologies, Statistics, and LLM Agents for Industrial Data Validation](https://openreview.net/pdf?id=EIGitXAx6Y)**  
-*Nicolai Schoch, Mohamed Elsheikh, Sebastian Palacio, Thilo Braun*
-
-**14:50–15:10** — **[A Neurosymbolic Approach for Explainable Early Diagnosis of Alzheimer’s Disease](https://openreview.net/pdf?id=OZVdQtntR4)**  
+**14:30–14:50** — **[A Neurosymbolic Approach for Explainable Early Diagnosis of Alzheimer’s Disease](https://openreview.net/pdf?id=OZVdQtntR4)**  
 *Ranveer Singh, Pranuthi Tenali, Saurabh Mathur, Ameet Soni, Vaishali Phatak, Karla Lynch, Daniel Murman, Matthew Rizzo, Sriraam Natarajan*
 
-**15:10–15:20** — **[The Bigger Picture: Neuro-Symbolic Knowledge Graph Enrichment and Anticipatory Inference from Multimodal Content](https://openreview.net/pdf?id=TyKtbKoUqz)**    
+**14:50–15:00** — **[The Bigger Picture: Neuro-Symbolic Knowledge Graph Enrichment and Anticipatory Inference from Multimodal Content](https://openreview.net/pdf?id=TyKtbKoUqz)**    
 *Stefano De Giorgis, Guendalina Righetti, Mihai Pomarlan, Nikolaos Tsiogkas, Maria M Hedblom, Mena Leemhuis, Oliver Kutz*
 
-**15:20–15:30** — **[Text-to-SPARQL Generation with Reinforcement Learning: A GRPO-based Approach on DBLP](https://openreview.net/pdf?id=uhqaZBj4Dm)**    
+**15:10–15:20** — **[Text-to-SPARQL Generation with Reinforcement Learning: A GRPO-based Approach on DBLP](https://openreview.net/pdf?id=uhqaZBj4Dm)**    
 *Jann Pfeifer, Debayan Banerjee, Ricardo Usbeck*
 
-**15:30–15:40** — **[Noema: A Neuro-Symbolic Framework for Accountable Conversational AI through Semantic Invariance](https://openreview.net/pdf?id=34RBOc7mXt)**    
+**15:20–15:30** — **[Noema: A Neuro-Symbolic Framework for Accountable Conversational AI through Semantic Invariance](https://openreview.net/pdf?id=34RBOc7mXt)**    
 *Jose F Quesada*
 
-**15:40–15:50** — **[Interpretable Moral Decision-Making under Epistemic Uncertainty](https://openreview.net/pdf?id=MlLrORwVuR)**    
+**15:30–15:40**  — **[Interpretable Moral Decision-Making under Epistemic Uncertainty](https://openreview.net/pdf?id=MlLrORwVuR)**    
 *Jessica Ciupa, Vaishak Belle, Antonia Sewell*
 
-**15:50–16:00** — Buffer
+**15:30–15:40**  — Town Hall
 
 **16:00-17:30** — Coffee break + posters
 
@@ -288,7 +288,7 @@ Please note: To enable this page, uncomment the line in _config.yml that says "s
 - **[An Agentic Framework for Neuro-Symbolic Programming](https://openreview.net/pdf?id=Ci0649msfg)**  
   *Aliakbar Nafar, Chetan Chigurupati, Danial Kamali, Hamid Reza Karimian, Parisa Kordjamshidi*
 
-**17:30-18:00** — Closing
+**17:30-18:00** — Awards & Closing
 
 ---
 
